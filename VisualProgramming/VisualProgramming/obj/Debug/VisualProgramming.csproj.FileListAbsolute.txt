@@ -1,0 +1,11 @@
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming\VisualProgramming\bin\Debug\VisualProgramming.exe.config
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming\VisualProgramming\bin\Debug\VisualProgramming.exe
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming\VisualProgramming\bin\Debug\VisualProgramming.pdb
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming\VisualProgramming\obj\Debug\VisualProgramming.csproj.AssemblyReference.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming\VisualProgramming\obj\Debug\VisualProgramming.csproj.SuggestedBindingRedirects.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming\VisualProgramming\obj\Debug\VisualProgramming.Form1.resources
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming\VisualProgramming\obj\Debug\VisualProgramming.Properties.Resources.resources
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming\VisualProgramming\obj\Debug\VisualProgramming.csproj.GenerateResource.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming\VisualProgramming\obj\Debug\VisualProgramming.csproj.CoreCompileInputs.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming\VisualProgramming\obj\Debug\VisualProgramming.exe
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming\VisualProgramming\obj\Debug\VisualProgramming.pdb

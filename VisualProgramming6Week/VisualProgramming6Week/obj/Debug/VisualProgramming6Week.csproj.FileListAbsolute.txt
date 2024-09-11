@@ -1,0 +1,11 @@
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming6Week\VisualProgramming6Week\bin\Debug\VisualProgramming6Week.exe.config
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming6Week\VisualProgramming6Week\bin\Debug\VisualProgramming6Week.exe
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming6Week\VisualProgramming6Week\bin\Debug\VisualProgramming6Week.pdb
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming6Week\VisualProgramming6Week\obj\Debug\VisualProgramming6Week.csproj.AssemblyReference.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming6Week\VisualProgramming6Week\obj\Debug\VisualProgramming6Week.csproj.SuggestedBindingRedirects.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming6Week\VisualProgramming6Week\obj\Debug\VisualProgramming6Week.Form1.resources
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming6Week\VisualProgramming6Week\obj\Debug\VisualProgramming6Week.Properties.Resources.resources
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming6Week\VisualProgramming6Week\obj\Debug\VisualProgramming6Week.csproj.GenerateResource.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming6Week\VisualProgramming6Week\obj\Debug\VisualProgramming6Week.csproj.CoreCompileInputs.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming6Week\VisualProgramming6Week\obj\Debug\VisualProgramming6Week.exe
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\VisualProgramming6Week\VisualProgramming6Week\obj\Debug\VisualProgramming6Week.pdb

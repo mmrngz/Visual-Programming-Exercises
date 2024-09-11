@@ -1,0 +1,11 @@
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yenitest123\yenitest123\bin\Debug\yenitest123.exe.config
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yenitest123\yenitest123\bin\Debug\yenitest123.exe
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yenitest123\yenitest123\bin\Debug\yenitest123.pdb
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yenitest123\yenitest123\obj\Debug\yenitest123.csproj.AssemblyReference.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yenitest123\yenitest123\obj\Debug\yenitest123.csproj.SuggestedBindingRedirects.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yenitest123\yenitest123\obj\Debug\yenitest123.Form1.resources
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yenitest123\yenitest123\obj\Debug\yenitest123.Properties.Resources.resources
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yenitest123\yenitest123\obj\Debug\yenitest123.csproj.GenerateResource.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yenitest123\yenitest123\obj\Debug\yenitest123.csproj.CoreCompileInputs.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yenitest123\yenitest123\obj\Debug\yenitest123.exe
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yenitest123\yenitest123\obj\Debug\yenitest123.pdb

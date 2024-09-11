@@ -1,0 +1,25 @@
+﻿
+@model Author
+
+
+
+<h2 class="text-center" style="text-align:center">Yazar Güncelleme Sayfasi</h2>
+
+<form method="post" asp-controller="Author" asp-action="Edit" asp-area="Management">
+
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroup-sizing-default" asp-validation-for="FirstName">FirstName</span>
+        </div>
+        <input type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" asp-for="FirstName">
+    </div>
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroup-sizing-default" asp-validation-for="LastName">LastName</span>
+        </div>
+        <input type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" asp-for="LastName">
+    </div>
+    <button type="submit" class="btn btn-outline-secondary">Güncelle</button>
+
+
+</form>

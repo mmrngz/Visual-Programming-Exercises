@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|c:\\users\\maran\\onedrive\\masa\u00FCst\u00FC\\mvc project\\week10labmine\\week10labmine\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|solutionrelative:week10labmine\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\week10labmine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|solutionrelative:week10labmine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\week10labmine\\form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|solutionrelative:week10labmine\\form2.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\week10labmine\\recordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|solutionrelative:week10labmine\\recordform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\week10labmine\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|solutionrelative:week10labmine\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\week10labmine\\updateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|solutionrelative:week10labmine\\updateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\week10labmine\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|solutionrelative:week10labmine\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\week10labmine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|solutionrelative:week10labmine\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\week10labmine\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|solutionrelative:week10labmine\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\week10labmine\\updateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|solutionrelative:week10labmine\\updateprofileform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\week10labmine\\recordform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|solutionrelative:week10labmine\\recordform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\week10labmine\\recordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|solutionrelative:week10labmine\\recordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\week10labmine\\recordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CF372B0-4F9F-4720-9B6D-445BDBE7604A}|Week10LabMine\\Week10LabMine.csproj|solutionrelative:week10labmine\\recordform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\User.cs",
+              "RelativeDocumentMoniker": "Week10LabMine\\User.cs",
+              "ToolTip": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\User.cs",
+              "RelativeToolTip": "Week10LabMine\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-02T18:49:17.41Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\Form1.cs",
+              "RelativeDocumentMoniker": "Week10LabMine\\Form1.cs",
+              "ToolTip": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\Form1.cs",
+              "RelativeToolTip": "Week10LabMine\\Form1.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAAAGAAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-02T18:57:05.07Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\Form2.cs",
+              "RelativeDocumentMoniker": "Week10LabMine\\Form2.cs",
+              "ToolTip": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\Form2.cs [Design]",
+              "RelativeToolTip": "Week10LabMine\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-02T19:58:41.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\Form1.cs",
+              "RelativeDocumentMoniker": "Week10LabMine\\Form1.cs",
+              "ToolTip": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\Form1.cs [Design]",
+              "RelativeToolTip": "Week10LabMine\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-02T18:48:54.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\Form2.cs",
+              "RelativeDocumentMoniker": "Week10LabMine\\Form2.cs",
+              "ToolTip": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\Form2.cs",
+              "RelativeToolTip": "Week10LabMine\\Form2.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAtwIoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-02T20:03:34.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpdateProfileForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\UpdateProfileForm.cs",
+              "RelativeDocumentMoniker": "Week10LabMine\\UpdateProfileForm.cs",
+              "ToolTip": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\UpdateProfileForm.cs [Design]",
+              "RelativeToolTip": "Week10LabMine\\UpdateProfileForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-04T01:45:00.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecordForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\RecordForm.Designer.cs",
+              "RelativeDocumentMoniker": "Week10LabMine\\RecordForm.Designer.cs",
+              "ToolTip": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\RecordForm.Designer.cs",
+              "RelativeToolTip": "Week10LabMine\\RecordForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-01-04T02:22:21.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.resx",
+              "DocumentMoniker": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\Form2.resx",
+              "RelativeDocumentMoniker": "Week10LabMine\\Form2.resx",
+              "ToolTip": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\Form2.resx",
+              "RelativeToolTip": "Week10LabMine\\Form2.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-01-04T02:31:59.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Week10LabMine\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\Form2.Designer.cs",
+              "RelativeToolTip": "Week10LabMine\\Form2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-01-04T02:32:01.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdateProfileForm.cs",
+              "DocumentMoniker": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\UpdateProfileForm.cs",
+              "RelativeDocumentMoniker": "Week10LabMine\\UpdateProfileForm.cs",
+              "ToolTip": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\UpdateProfileForm.cs",
+              "RelativeToolTip": "Week10LabMine\\UpdateProfileForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-04T01:52:56.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RecordForm.resx",
+              "DocumentMoniker": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\RecordForm.resx",
+              "RelativeDocumentMoniker": "Week10LabMine\\RecordForm.resx",
+              "ToolTip": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\RecordForm.resx",
+              "RelativeToolTip": "Week10LabMine\\RecordForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-01-04T02:22:24.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RecordForm.cs",
+              "DocumentMoniker": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\RecordForm.cs",
+              "RelativeDocumentMoniker": "Week10LabMine\\RecordForm.cs",
+              "ToolTip": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\RecordForm.cs",
+              "RelativeToolTip": "Week10LabMine\\RecordForm.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-04T00:26:41.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecordForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\RecordForm.cs",
+              "RelativeDocumentMoniker": "Week10LabMine\\RecordForm.cs",
+              "ToolTip": "C:\\Users\\maran\\OneDrive\\Masa\u00FCst\u00FC\\MVC Project\\Week10LabMine\\Week10LabMine\\RecordForm.cs [Design]",
+              "RelativeToolTip": "Week10LabMine\\RecordForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-01-04T00:25:45.062Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

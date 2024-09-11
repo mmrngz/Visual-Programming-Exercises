@@ -1,0 +1,15 @@
+﻿
+@model List<Category>
+ 
+
+
+	<h2 style="text-align:center">List Sayfası</h2>
+
+<ul>
+	
+		@foreach (Category item in Model)
+		{
+			<li>@item.CategoryName</li>
+		}
+	
+</ul>

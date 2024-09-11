@@ -1,0 +1,6 @@
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\week11importantcode\week11importantcode\obj\Debug\week11importantcode.csproj.AssemblyReference.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\week11importantcode\week11importantcode\obj\Debug\week11importantcode.csproj.SuggestedBindingRedirects.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\week11importantcode\week11importantcode\obj\Debug\week11importantcode.Form1.resources
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\week11importantcode\week11importantcode\obj\Debug\week11importantcode.Properties.Resources.resources
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\week11importantcode\week11importantcode\obj\Debug\week11importantcode.csproj.GenerateResource.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\week11importantcode\week11importantcode\obj\Debug\week11importantcode.csproj.CoreCompileInputs.cache

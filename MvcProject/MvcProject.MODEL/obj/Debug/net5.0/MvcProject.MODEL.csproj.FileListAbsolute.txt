@@ -1,0 +1,15 @@
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\MvcProject\MvcProject.MODEL\bin\Debug\net5.0\MvcProject.MODEL.deps.json
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\MvcProject\MvcProject.MODEL\bin\Debug\net5.0\MvcProject.MODEL.runtimeconfig.json
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\MvcProject\MvcProject.MODEL\bin\Debug\net5.0\MvcProject.MODEL.runtimeconfig.dev.json
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\MvcProject\MvcProject.MODEL\bin\Debug\net5.0\MvcProject.MODEL.dll
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\MvcProject\MvcProject.MODEL\bin\Debug\net5.0\MvcProject.MODEL.pdb
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\MvcProject\MvcProject.MODEL\obj\Debug\net5.0\MvcProject.MODEL.csproj.AssemblyReference.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\MvcProject\MvcProject.MODEL\obj\Debug\net5.0\MvcProject.MODEL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\MvcProject\MvcProject.MODEL\obj\Debug\net5.0\MvcProject.MODEL.AssemblyInfoInputs.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\MvcProject\MvcProject.MODEL\obj\Debug\net5.0\MvcProject.MODEL.AssemblyInfo.cs
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\MvcProject\MvcProject.MODEL\obj\Debug\net5.0\MvcProject.MODEL.csproj.CoreCompileInputs.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\MvcProject\MvcProject.MODEL\obj\Debug\net5.0\MvcProject.MODEL.dll
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\MvcProject\MvcProject.MODEL\obj\Debug\net5.0\refint\MvcProject.MODEL.dll
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\MvcProject\MvcProject.MODEL\obj\Debug\net5.0\MvcProject.MODEL.pdb
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\MvcProject\MvcProject.MODEL\obj\Debug\net5.0\MvcProject.MODEL.genruntimeconfig.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\MvcProject\MvcProject.MODEL\obj\Debug\net5.0\ref\MvcProject.MODEL.dll

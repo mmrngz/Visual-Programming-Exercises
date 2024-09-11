@@ -1,0 +1,30 @@
+﻿@using GettingData.Models
+@model List<Product>
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		h2{
+			text-align:center
+		}
+	</style>
+</head>
+<body>
+	<h2>
+		URUNLERIMIZ
+	</h2>
+
+
+	<ul>
+		@foreach (Product item in Model)
+		{
+			<li>
+				@item.ProductName
+				@item.Id  
+
+			</li>
+		}
+	</ul>
+</body>
+</html>
+

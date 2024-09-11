@@ -1,0 +1,30 @@
+﻿@using GettingData.Models
+
+@model Product
+<!DOCTYPE html>
+<html>
+<head>
+	<style>
+		p {
+			text-align: center
+		}
+	</style>
+</head>
+<body>
+	<h2>
+		URUNLERIMIZIN CATEGORYLERI
+	</h2>
+
+	@if (ViewBag.Error != null)
+	{
+		<p>
+			Merhaba, @ViewBag.Error.ToString();
+		</p>
+	}
+	else
+	{
+		<p>Categorysi Secilen Urunumuz: @Model.ProductName  @Model.CategoryName </p>
+	}
+</body>
+</html>
+

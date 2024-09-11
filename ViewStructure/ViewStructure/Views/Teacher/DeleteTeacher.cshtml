@@ -1,0 +1,19 @@
+﻿@{
+	Layout = null;
+}
+
+@{
+	ViewData["HasFooter"] = false;
+}
+
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
+
+
+<h2 style="text-align:center">Teacher Delete Page</h2>
+
+<div class="alert alert-danger">
+	<partial name="~/Views/Teacher/Partials/_TeacherInfoPartial.cshtml"/>
+	<h2>Silmek Istediginize Eminmisiniz?</h2>
+	<button class="btn btn-primary">Evet</button>
+	<button class="btn btn-primary">Hayır</button>
+</div>

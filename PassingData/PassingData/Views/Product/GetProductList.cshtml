@@ -1,0 +1,58 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+
+@using PassingData.Models
+@model List<Product>
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        table{ 
+            border-collapse:collapse;
+            width: 100%;
+
+
+        }
+        td,th{
+            border: 1px solid #dddddd;
+            text-align: left;
+            padding: 9px;
+
+        }
+        tr:nth-child(even){
+            background-color:#dddddd;
+        }
+        h1{
+            text-align:center;
+        }
+        
+    </style>
+    <title>Ilk Proje</title>
+</head>
+<body>
+    <h1>Urun Listesi</h1>
+
+    <table>
+        <tr>
+            <th>Urun Ismi</th>
+            <th>Kategorisi</th>
+            <th>Fiyati</th>
+        </tr>
+        @foreach (Product item in @Model)
+        {
+            <tr>
+                <td>@item.ProductName</td>
+                <td>@item.CategoryName</td>
+                <td>@item.UnitPrice TL</td>
+            </tr>
+        }
+    </table>
+
+</body>
+</html>

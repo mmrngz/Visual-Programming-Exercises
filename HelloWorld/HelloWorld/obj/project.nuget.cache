@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "v5Nv8FC7BWFwGm9sz+OTGFpYlFY9VuDizl5JWXRqr//yWT6ZWleOrdFY/stwIiz9H/xJ709bcqqV2TOBMAfTUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maran\\OneDrive\\Masaüstü\\MVC Project\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maran\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\maran\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\maran\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\maran\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

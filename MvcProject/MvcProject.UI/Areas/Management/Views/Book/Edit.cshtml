@@ -1,0 +1,49 @@
+﻿@using MvcProject.DAL.Dto
+
+@model (Book book,List<AuthorDto> authors,List<BookTypeDto> bookTypes)
+
+
+
+
+<h2 class="text-center" style="text-align:center">Kitap Ekleme Sayfasi</h2>
+
+<form method="post" asp-controller="Book" asp-action="Edit" asp-area="Management">
+
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroup-sizing-default" asp-validation-for="book.Name">Book Name</span>
+        </div>
+        <input type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" asp-for="book.Name">
+    </div>
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroup-sizing-default" asp-validation-for="book.PageCount">Page</span>
+        </div>
+        <input type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" asp-for="book.PageCount">
+
+    </div>
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroup-sizing-default" asp-validation-for="book.AuthorID">Page</span>
+        </div>
+        <select type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" asp-for="book.AuthorID" asp-items="@(new SelectList(Model.authors,"ID","FullName"))">
+        </select>>
+    </div>
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroup-sizing-default" asp-validation-for="book.BookTypeID">Page</span>
+        </div>
+        <select type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" asp-for="book.BookTypeID" asp-items="@(new SelectList(Model.bookTypes,"ID","Name"))">
+        </select>
+    </div>
+    <div class="input-group mb-3">
+        
+        <input type="hidden" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" asp-for="book.ID"/>
+
+    </div>
+
+
+    <button type="submit" class="btn btn-outline-secondary">Ekle</button>
+
+
+</form>

@@ -1,0 +1,11 @@
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\LabSorusu4.hafta\LabSorusu4.hafta\bin\Debug\LabSorusu4.hafta.exe.config
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\LabSorusu4.hafta\LabSorusu4.hafta\bin\Debug\LabSorusu4.hafta.exe
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\LabSorusu4.hafta\LabSorusu4.hafta\bin\Debug\LabSorusu4.hafta.pdb
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\LabSorusu4.hafta\LabSorusu4.hafta\obj\Debug\LabSorusu4.hafta.csproj.AssemblyReference.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\LabSorusu4.hafta\LabSorusu4.hafta\obj\Debug\LabSorusu4.hafta.csproj.SuggestedBindingRedirects.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\LabSorusu4.hafta\LabSorusu4.hafta\obj\Debug\LabSorusu4.hafta.Form1.resources
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\LabSorusu4.hafta\LabSorusu4.hafta\obj\Debug\LabSorusu4.hafta.Properties.Resources.resources
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\LabSorusu4.hafta\LabSorusu4.hafta\obj\Debug\LabSorusu4.hafta.csproj.GenerateResource.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\LabSorusu4.hafta\LabSorusu4.hafta\obj\Debug\LabSorusu4.hafta.csproj.CoreCompileInputs.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\LabSorusu4.hafta\LabSorusu4.hafta\obj\Debug\LabSorusu4.hafta.exe
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\LabSorusu4.hafta\LabSorusu4.hafta\obj\Debug\LabSorusu4.hafta.pdb

@@ -1,0 +1,16 @@
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\bin\Debug\net5.0\yeniconsol.exe
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\bin\Debug\net5.0\yeniconsol.deps.json
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\bin\Debug\net5.0\yeniconsol.runtimeconfig.json
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\bin\Debug\net5.0\yeniconsol.runtimeconfig.dev.json
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\bin\Debug\net5.0\yeniconsol.dll
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\bin\Debug\net5.0\yeniconsol.pdb
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\obj\Debug\net5.0\yeniconsol.csproj.AssemblyReference.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\obj\Debug\net5.0\yeniconsol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\obj\Debug\net5.0\yeniconsol.AssemblyInfoInputs.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\obj\Debug\net5.0\yeniconsol.AssemblyInfo.cs
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\obj\Debug\net5.0\yeniconsol.csproj.CoreCompileInputs.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\obj\Debug\net5.0\yeniconsol.dll
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\obj\Debug\net5.0\refint\yeniconsol.dll
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\obj\Debug\net5.0\yeniconsol.pdb
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\obj\Debug\net5.0\yeniconsol.genruntimeconfig.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\yeniconsol\yeniconsol\obj\Debug\net5.0\ref\yeniconsol.dll

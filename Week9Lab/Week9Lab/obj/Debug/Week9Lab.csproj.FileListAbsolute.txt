@@ -1,0 +1,12 @@
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\Week9Lab\Week9Lab\obj\Debug\Week9Lab.csproj.AssemblyReference.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\Week9Lab\Week9Lab\obj\Debug\Week9Lab.csproj.SuggestedBindingRedirects.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\Week9Lab\Week9Lab\obj\Debug\Week9Lab.Form1.resources
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\Week9Lab\Week9Lab\obj\Debug\Week9Lab.Form2.resources
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\Week9Lab\Week9Lab\obj\Debug\Week9Lab.Properties.Resources.resources
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\Week9Lab\Week9Lab\obj\Debug\Week9Lab.csproj.GenerateResource.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\Week9Lab\Week9Lab\obj\Debug\Week9Lab.csproj.CoreCompileInputs.cache
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\Week9Lab\Week9Lab\bin\Debug\Week9Lab.exe.config
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\Week9Lab\Week9Lab\bin\Debug\Week9Lab.exe
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\Week9Lab\Week9Lab\bin\Debug\Week9Lab.pdb
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\Week9Lab\Week9Lab\obj\Debug\Week9Lab.exe
+C:\Users\maran\OneDrive\Masaüstü\MVC Project\Week9Lab\Week9Lab\obj\Debug\Week9Lab.pdb

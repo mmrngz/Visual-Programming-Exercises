@@ -1,0 +1,21 @@
+﻿
+@model BookType
+
+
+
+<h2 class="text-center" style="text-align:center">Kitap Tipi Ekleme Sayfasi</h2>
+
+<form method="post" asp-controller="BookType" asp-action="Create" asp-area="Management">
+
+    <div class="input-group mb-3">
+        <div class="input-group-prepend">
+            <span class="input-group-text" id="inputGroup-sizing-default" asp-validation-for="Name">Name</span>
+        </div>
+        <input type="text" class="form-control" aria-label="Default" aria-describedby="inputGroup-sizing-default" asp-for="Name">
+        <span class="text-danger" asp-validation-for="Name"></span>
+    </div>
+    
+    <button type="submit" class="btn btn-outline-secondary">Kaydet</button>
+
+
+</form>
